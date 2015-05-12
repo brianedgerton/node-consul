@@ -2,6 +2,7 @@
 
 This is a [Consul][consul] client.
 
+
  * [Documentation](#documentation)
  * [License](#license)
 
